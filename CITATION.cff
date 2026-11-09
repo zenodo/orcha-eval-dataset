@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below.
+type: dataset
+title: Orcha metadata extraction evaluation dataset
+abstract: >-
+  Evaluation dataset for bibliographic metadata extraction from scholarly PDFs
+  and PNG posters, paired with manually curated JSON ground truth.
+authors:
+  - given-names: Julie
+    family-names: Skoven Hinge
+    orcid: https://orcid.org/0009-0002-7876-8602
+    affiliation: CERN
+  - given-names: Dinah
+    family-names: Chander Madan
+    affiliation: CERN
+  - given-names: Katherine
+    family-names: Bettis
+    orcid: https://orcid.org/0009-0001-9971-6564
+    affiliation: CERN
+  - given-names: Alex
+    family-names: Ioannidis
+    orcid: https://orcid.org/0000-0002-5082-6404
+    affiliation: CERN
+# Concept DOI: resolves to the latest version, so no update needed per release.
+doi: 10.5281/zenodo.24085203
+repository-code: https://github.com/zenodo/orcha-eval-dataset
